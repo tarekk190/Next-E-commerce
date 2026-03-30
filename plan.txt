@@ -1,0 +1,58 @@
+E-commerce Plan
+
+[] - Components
+   []  1- Navbar 
+   []  2- Footer
+[] - Pages
+   []  1- Home
+   []  2- About
+   []  3- Contact
+   []  4- Shop
+   []  5- Product
+   []  6- Cart
+   []  7- Checkout
+   []  8- Login
+   []  9- Register
+   []  10- Profile
+   []  11- Order
+   []  12- Orders
+   []  13- Dashboard
+   []  14- Settings     
+
+
+
+        1-29-2026 12:42 PM
+               --- Navbar ---
+   * Edit Navbar width to be full screen *
+               --- Mega Menu ---
+   * Edit mega menu to be with categories in Api *
+   * Edit mega menu to be with sub categories in Api *
+   * Edit mega menu to be with products in Api *
+
+
+   Api Tasks 
+
+   * Authentication Tasks *
+   Login [ X ]
+   Register [ X ]
+   forgot-password [ X ]
+   change-password [ X ]
+   * Listing & Details *
+   Products [ X ]
+   Product Details [ X ]
+   Brands [ X ]
+   Brand Details [ X ]
+   Categories [ X ]
+   Category Details [ X ]
+   * Cart Operations *
+   Display 
+   Add 
+   Remove
+   Update
+   * Wishlist operations *
+   Display
+   Add 
+   Remove
+   *  Payment ways  *
+   Online
+   Cash
