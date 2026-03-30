@@ -2,7 +2,10 @@
 
 import { cookies } from "next/headers";
 
-const API_Base_Url = `${process.env.API_V2_URL}/cart`;
+const API_V2_URL =
+  process.env.API_V2_URL || "https://ecommerce.routemisr.com/api/v2";
+
+const API_Base_Url = `${API_V2_URL}/cart`;
 
 async function getToken() {
   const cookieStore = await cookies();
